@@ -1,20 +1,10 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
-**Eom-Ye-rim/Eom-Ye-rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%Yerim's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-Here are some ideas to get you started:
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Eom-Ye-rim&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/Eom-Ye-rim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+## 💻 DEV's log 💻
