@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://rimstudy.notion.site/Project-4b35db3e46a2447e88391e3ccc06a184?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=로고&logoColor=000000"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eom-Ye-rim&show_icons=true&theme=radical)
 
 
 <!--
