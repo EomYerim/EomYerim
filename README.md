@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Yerim's%20Github&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87CEEB,100:87CEEB&height=300&section=header&text=Yerim's%20Github&fontSize=90&fontColor=000000" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
