@@ -37,9 +37,9 @@
 
 <h3 align="center"> 📚Study 📚 </h3>
 <div align="center">
-  <a href="https://rimstudy.notion.site/8f2ed4cc3cb9418d811e6f009a5a4ff1?pvs=4" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  
+  <a href="https://rimstudy.notion.site/8f2ed4cc3cb9418d811e6f009a5a4ff1?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </div>
 <br>
 
