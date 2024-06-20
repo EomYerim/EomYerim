@@ -20,7 +20,7 @@
 
 <h3 align="center">📚 Project 📚</h3>
 <div align="center">
-  <a href="https://yerim110324.atlassian.net/l/cp/vNQYg0hY" target="_blank">
+  <a href="https://yerim110324.atlassian.net/l/cp/vNQYg0hY](https://github.com/Eom-Ye-rim/Pocket-Art" target="_blank">
   <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/e6422103-2f99-40dd-af36-dd73a03f640b width="200" height="200">
   <p>캡스톤 프로젝트 - Pocket Art </p>
   </a>
