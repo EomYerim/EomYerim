@@ -26,7 +26,7 @@
       <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/e6422103-2f99-40dd-af36-dd73a03f640b" width="50" height="50">
     </td>
     <td>
-      <p style="font-size: 12px;">캡스톤 프로젝트 - Pocket Art</p>
+      <p style="font-size: 12px;">Pocket Art - AR과 AI를 활용한 나의 작은 미술관</p>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
       <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="50" height="50">
     </td>
     <td>
-      <p style="font-size: 12px;">sunny(1.0.1) - 절약을 재미있게!</p>
+      <p style="font-size: 12px;">SUNNY(1.0.1) - 절약을 재미있게!</p>
     </td>
   </tr>
 </table>
