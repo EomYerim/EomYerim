@@ -1,55 +1,42 @@
-<!--타이틀 부분-->
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87CEEB,100:87CEEB&height=300&section=header&text=Yerim's%20Github&fontSize=90&fontColor=000000" />
-</div>
+# <p>Hi there 👋🏻 </p>
 
+![Static Badge](https://img.shields.io/badge/yerim110324%40gmail.com-blue) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEom-Ye-rim%2FEom-Ye-rim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Static Badge](https://img.shields.io/badge/Github.io-black) ![Static Badge](https://img.shields.io/badge/Notion-red)
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-</div>
+# 💬 About Me
+- 🖥️ Backend Developer
+- 🏫 Kwangwoon University
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpfla159)](https://solved.ac/유저이름)
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eom-Ye-rim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eom-Ye-rim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 <br>
 
-<br>
+<h3>Projects</h3>
 
-<h3 align="center">📚 Project 📚</h3>
-<div align="center">
-  <a href="https://yerim110324.atlassian.net/l/cp/vNQYg0hY](https://github.com/Eom-Ye-rim/Pocket-Art" target="_blank">
-  <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/e6422103-2f99-40dd-af36-dd73a03f640b width="200" height="200">
-  <p>캡스톤 프로젝트 - Pocket Art </p>
-  </a>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/e6422103-2f99-40dd-af36-dd73a03f640b" width="50" height="50">
+    </td>
+    <td>
+      <p style="font-size: 12px;">캡스톤 프로젝트 - Pocket Art</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="50" height="50">
+    </td>
+    <td>
+      <p style="font-size: 12px;">sunny(1.0.1) - 절약을 재미있게!</p>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/SUNNY-PJ" target="_blank">
-    <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="200" height="200">
-    <p>sunny(1.0.1) - Making saving fun!</p>
-  </a>
-</div>
-<br>
 
-<h3 align="center"> ⚒️ Tools ⚒️ </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
-</div>
-
-<h3 align="center"> 📚Study 📚 </h3>
-<div align="center">
-  <a href="https://rimstudy.notion.site/8f2ed4cc3cb9418d811e6f009a5a4ff1?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</div>
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="yerim110324@gmail.com">
-    <img
-      src="https://img.shields.io/badge/yerim110324@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
