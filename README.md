@@ -34,7 +34,7 @@
       <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="50" height="50">
     </td>
     <td>
-      <p style="font-size: 12px;">SUNNY(1.0.1) - 절약을 재미있게!</p>
+      <p style="font-size: 12px;"> SUNNY(1.0.1) - 절약을 재미있게!</p>
     </td>
   </tr>
 </table>
