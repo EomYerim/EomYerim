@@ -1,6 +1,6 @@
 # <p>Hi there 👋🏻 </p>
 
-![Static Badge](https://img.shields.io/badge/yerim110324%40gmail.com-blue) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEom-Ye-rim%2FEom-Ye-rim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Static Badge](https://img.shields.io/badge/Github.io-black) ![Static Badge](https://img.shields.io/badge/Notion-red)
+![Static Badge](https://img.shields.io/badge/yerim110324%40gmail.com-blue) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEomYerim%2FEom-Ye-rim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Static Badge](https://img.shields.io/badge/Github.io-black) ![Static Badge](https://img.shields.io/badge/Notion-red)
 
 # 💬 About Me
 - 🖥️ Backend Developer
