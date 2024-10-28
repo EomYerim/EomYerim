@@ -37,6 +37,15 @@
       <p style="font-size: 12px;"> SUNNY(1.0.1) - 절약을 재미있게!</p>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1a60b3a8-64ff-49df-b26a-0f4a0161fe3d" width="50" height="50">
+    </td>
+    <td>
+      <p style="font-size: 12px;">Baemo(1.0.1) - 올인원 배드민턴 플랫폼</p>
+    </td>
+  </tr>
 </table>
 
 
