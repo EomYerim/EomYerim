@@ -14,12 +14,17 @@
 </p>
 <br>
 
+
+
+
 <h3>Projects</h3>
 
 <table style="width:100%; text-align:center;">
   <tr>
     <th>Project</th>
     <th>Description</th>
+    <th>Role</th>
+    <th>Result</th>
   </tr>
   <tr>
     <td>
@@ -28,6 +33,12 @@
     <td>
       <p style="font-size: 12px;">Pocket Art - AR과 AI를 활용한 나의 작은 미술관</p>
     </td>
+    <td>
+      <p style="font-size: 12px;"> 팀장 & 백엔드 & 프론트 : 로그인 기능 & 커뮤니티/댓글 & AR & DALL-E API & chatGPT API 연동 & 서버 배포 담당 </p>
+    </td>
+       <td>
+      <p style="font-size: 12px;"> 🎖️ 한이음 입선 & 졸업작품 전시회 우수상 </p>
+    </td>
   </tr>
   <tr>
     <td>
@@ -35,6 +46,12 @@
     </td>
     <td>
       <p style="font-size: 12px;"> SUNNY(1.0.1) - 절약을 재미있게!</p>
+    </td>
+     <td>
+      <p style="font-size: 12px;"> 팀장 & 백엔드 : 로그인 기능 & 커뮤니티/댓글  & 알림  & 절약 목표  & 지출 기능 담당 </p>
+    </td>
+     <td>
+      <p style="font-size: 12px;"> AppStore 출시 </p>
     </td>
   </tr>
 
@@ -45,7 +62,15 @@
     <td>
       <p style="font-size: 12px;">Baemo(1.0.1) - 올인원 배드민턴 플랫폼</p>
     </td>
+     <td>
+      <p style="font-size: 12px;">백엔드 : 실시간 채팅 & 알림 기능 담당</p>
+    </td>
+     <td>
+      <p style="font-size: 12px;">AppStore,PlayStore 출시 </p>
+    </td>
   </tr>
 </table>
 
+<h3>Certificate</h3>
+🎖️ SQLD 개발자
 
