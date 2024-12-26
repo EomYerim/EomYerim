@@ -15,8 +15,6 @@
 <br>
 
 
-<h3>Extracurricular Activities</h3>
-- CJ 올리브네트웍스 Cloud Wave
 
 <h3>Projects</h3>
 
@@ -74,4 +72,7 @@
 
 <h3>Certificate</h3>
 🎖️ SQLD 개발자
+
+<h3>Extracurricular Activities</h3>
+CJ 올리브네트웍스 Cloud Wave
 
