@@ -15,7 +15,8 @@
 <br>
 
 
-
+<h3>Extracurricular Activities</h3>
+- CJ 올리브네트웍스 Cloud Wave
 
 <h3>Projects</h3>
 
