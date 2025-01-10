@@ -33,10 +33,10 @@
       <p style="font-size: 12px;">Pocket Art - AR과 AI를 활용한 나의 작은 미술관</p>
     </td>
     <td>
-      <p style="font-size: 12px;"> 팀장 & 백엔드 & 프론트 : 로그인 기능 & 커뮤니티/댓글 & AR & DALL-E API & chatGPT API 연동 & 서버 배포 담당 </p>
+      <p style="font-size: 12px;"> 팀장 & 백엔드 & 프론트 : 로그인 & 커뮤니티/댓글 & AR & DALL-E API & chatGPT API 연동 & 서버 배포 담당 </p>
     </td>
        <td>
-      <p style="font-size: 12px;"> 🎖️ 한이음 입선 & 졸업작품 전시회 우수상 </p>
+      <p style="font-size: 12px;"> 🎖️ 한이음 입선 & 광운대 졸업작품 전시회 우수상 </p>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
       <p style="font-size: 12px;">백엔드 : 실시간 채팅 & 알림 기능 담당</p>
     </td>
      <td>
-      <p style="font-size: 12px;">AppStore,PlayStore 출시 </p>
+      <p style="font-size: 12px;">AppStore 출시 </p>
     </td>
   </tr>
 </table>
