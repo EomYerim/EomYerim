@@ -1,6 +1,7 @@
 # <p>Hi there 👋🏻 </p>
 
-![Static Badge](https://img.shields.io/badge/yerim110324%40gmail.com-blue) ![Static Badge](https://img.shields.io/badge/Github.io-black) ![Static Badge](https://img.shields.io/badge/Notion-red)
+![Static Badge](https://img.shields.io/badge/yerim110324%40gmail.com-blue) 
+![Static Badge](https://img.shields.io/badge/Notion-red)
 
 # 💬 About Me
 - 🖥️ Backend Developer & Cloud Engineer
