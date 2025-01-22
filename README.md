@@ -59,7 +59,7 @@
       <img src="https://github.com/user-attachments/assets/1a60b3a8-64ff-49df-b26a-0f4a0161fe3d" width="50" height="50">
     </td>
     <td>
-      <p style="font-size: 12px;">Baemo(1.0.1) - 올인원 배드민턴 플랫폼</p>
+      <p style="font-size: 12px;">Baemo - 올인원 배드민턴 플랫폼</p>
     </td>
      <td>
       <p style="font-size: 12px;">백엔드 : 실시간 채팅 & 알림 기능 담당</p>
