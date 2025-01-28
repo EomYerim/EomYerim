@@ -44,7 +44,7 @@
       <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="50" height="50">
     </td>
     <td>
-      <p style="font-size: 12px;"> SUNNY(1.0.1) - 절약을 재미있게!</p>
+      <p style="font-size: 12px;"> SUNNY - 절약을 재미있게!</p>
     </td>
      <td>
       <p style="font-size: 12px;"> 팀장 & 백엔드 : 로그인 기능 & 커뮤니티/댓글  & 알림  & 절약 목표  & 지출 기능 담당 </p>
