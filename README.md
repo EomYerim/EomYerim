@@ -74,5 +74,5 @@
 🎖️ SQLD 개발자
 
 <h3>Extracurricular Activities</h3>
-CJ 올리브네트웍스 Cloud Wave 
+CJ 올리브네트웍스 Cloud Wave 수료
 
