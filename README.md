@@ -68,6 +68,20 @@
       <p style="font-size: 12px;">AppStore 출시 </p>
     </td>
   </tr>
+   <tr>
+    <td>
+<!--       <img src="https://github.com/Eom-Ye-rim/Eom-Ye-rim/assets/78583768/514df46c-de9a-4783-b063-7af811e3164d" width="50" height="50"> -->
+    </td>
+    <td>
+      <p style="font-size: 12px;"> CGV 영화관 광고 동기화 송출 및 라이브 스트리밍 서비스</p>
+    </td>
+     <td>
+      <p style="font-size: 12px;"> 배포계 담당 : Terraform을 활용한 인프라 구축 & Karpenter 오토스케일링 & Prometheus & Grafana 모니터링 구축 </p>
+    </td>
+     <td>
+      <p style="font-size: 12px;"> CJ 올리브네트웍스 x CloudWave </p>
+    </td>
+  </tr>
 </table>
 
 <h3>Certificate</h3>
