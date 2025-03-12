@@ -79,7 +79,7 @@
       <p style="font-size: 12px;"> 배포계 담당 : Terraform을 활용한 인프라 구축 & Karpenter 오토스케일링 & Prometheus & Grafana 모니터링 구축 </p>
     </td>
      <td>
-      <p style="font-size: 12px;"> CJ 올리브네트웍스 x CloudWave </p>
+      <p style="font-size: 12px;"> CJ 올리브네트웍스 x CloudWave 우수 수료생</p>
     </td>
   </tr>
 </table>
