@@ -86,7 +86,7 @@
 </table>
 
 <h3>Certificate</h3>
-🎖️ SQLD 개발자
+🎖️ SQLD 개발자 <br/>
 🎖️ 리눅스마스터 2급
 
 <h3>Extracurricular Activities</h3>
