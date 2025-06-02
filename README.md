@@ -92,11 +92,6 @@
 <h3>Extracurricular Activities</h3>
 CJ 올리브네트웍스 Cloud Wave 수료 (2024.12~2025.02) 
 
-<h3>Portfolio</h3>
-<a href="https://rimstudy.notion.site/Hi-I-m-Yerim-12a5a9c7f5e080c9b73cf4ce34298d8a">
-    <div style="border: 2px solid #000; padding: 10px; text-align: center; border-radius: 5px; background-color: #f8f9fa; font-weight: bold; width: 200px;">
-        📂 Portpolio
-    </div>
-</a>
+
 
 
