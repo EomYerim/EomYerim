@@ -90,7 +90,8 @@
 🎖️ 리눅스마스터 2급
 
 <h3>Extracurricular Activities</h3>
-CJ 올리브네트웍스 Cloud Wave 수료 (2024.12~2025.02) 
+CJ 올리브네트웍스 Cloud Wave 수료 (2024.12~2025.02)
+CJ 올리브네트웍스 인턴쉽 과정 수료
 
 
 
